@@ -1,0 +1,40 @@
+h2{
+   text-align: left;
+}
+
+#link  {
+   color: black;
+   cursor: pointer;
+   
+}
+#link:hover{
+   color: #ec7c2d;
+}
+
+.unbloglist{
+   list-style-type: disc;
+   padding: 0px 16px;
+   padding-right: 0px;
+}
+
+.unbloglist li ,.olbloglist li{
+   margin: 4px 0px;
+
+}
+
+.BlogCollection h2{
+   text-align: center;
+}
+
+.BlogCollection{
+   width: 100%;
+   margin: 5px auto;
+   overflow: hidden;
+}
+
+.olbloglist{
+   margin-bottom: 0px;
+  padding: 0px 16px;
+  padding-right: 0px;
+}
+
